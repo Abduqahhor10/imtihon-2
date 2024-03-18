@@ -1,0 +1,170 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 170px 24px 170px;
+}
+.navbar ul{
+    display: flex;
+    gap: 32px;
+    list-style-type: none;
+}
+.navbar a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    transition: 0.5s all ;
+}
+.navbar :hover{
+    color: #DE2E54;
+}
+.btn a{
+    padding: 24px;
+    background-color: #fff;
+    border: 2px solid #DE2E54;
+    color: #DE2E54;
+    text-decoration: none;
+    border-radius: 8px ;
+}
+.ox {
+    background-image: url('./image\ 4.png');
+    background-repeat: no-repeat;
+    width: 1440px;
+height: 533px;
+top: 98px;
+
+}
+.box{
+    background-image: url('./image\ 4.png');
+}
+.box3{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.box1 h3{
+ color: #fff;
+ width: 500px;
+ height: 178.2px;
+ font-size: 36px;
+
+}
+.box1{
+    padding: 137.8px;
+}
+.box1 button{
+    padding: 12px 24px 12px 24px;
+    border-radius: 8px;
+    background: #DE2E54CC;
+    border: none;
+    color: #fff;
+}
+.text{
+    text-align: center;
+    font-size: 36px;
+    color: black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.text4 {
+    margin-left: 653px;
+    margin-top: 70px;
+}
+
+.xijoma {
+    display: flex;
+    margin-top: 32px;
+}
+
+.xijoma h4 {
+    margin-left: 104px;
+}
+
+.xijoma p {
+    margin-top: 52px;
+    margin-left: -50px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+
+}
+
+.xijoma img {
+    margin-top: -25px;
+    padding-left: 64px;
+}
+
+.xijoma1 {
+    display: flex;
+}
+
+.xijoma1 h4 {
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+.xijoma1 p {
+    margin-top: 80px;
+    margin-left: -110px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-right: 90px;
+}
+.img-{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    position: relative;
+    top: 200px;
+}
+.main1{
+    margin-left: 180px;
+}
+.kok{
+    width: 100%;
+    background: blue;
+    display: flex;
+    justify-content: space-around;
+}
+.map{
+    width: 300px;
+    padding-top: 350px;
+}
+.salom{
+    width: 500px;
+    height: 450px;
+    background: #fff;
+     position: relative; 
+     top: 350px;
+}
+
+.as{
+    width: 90%;
+    height: 40px;
+    margin-bottom: 40px;
+    position: relative;
+    left: 30px;
+    top: 15px;
+    border-radius: 10px;
+}
+.a{
+    background-color: greenyellow;
+    color: #fff;
+}
+.al{
+    background: #000;
+}
+.iq a{
+    color: white;
+}
